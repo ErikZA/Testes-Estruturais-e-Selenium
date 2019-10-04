@@ -1,0 +1,6 @@
+com\mycompany\project_1\service\PersonService.class
+com\mycompany\project_1\entity\base\Person.class
+com\mycompany\project_1\JAXRSConfiguration.class
+com\mycompany\project_1\repository\PersonRepository.class
+com\mycompany\project_1\business\AddString.class
+com\mycompany\project_1\resources\JavaEE8Resource.class

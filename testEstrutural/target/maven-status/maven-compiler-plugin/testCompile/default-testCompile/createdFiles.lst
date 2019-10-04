@@ -1,0 +1,4 @@
+com\mycompany\project_1\business\AddStringTest.class
+com\mycompany\project_1\repository\PersonRepositoryTest.class
+com\mycompany\project_1\entity\base\PersonTest.class
+com\mycompany\project_1\service\PersonServiceTest.class
